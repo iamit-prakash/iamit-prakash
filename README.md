@@ -29,3 +29,6 @@ protocol.
 
 ### 📊 GitHub Stats:
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamit-prakash&show_icons=true&theme=radical)
+
+### 📈 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamit-prakash&layout=compact&theme=radical)
