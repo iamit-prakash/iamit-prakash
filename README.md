@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Amit,
+# 👋 Hi there! I'm Amit,
 
 I'm a Full Stack Web Developer and a recent B.Tech Computer Science graduate. Passionate about problem-solving and building scalable web applications. I enjoy working on innovative projects that blend technology with real-world utility.
 
